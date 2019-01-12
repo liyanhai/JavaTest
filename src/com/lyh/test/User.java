@@ -10,7 +10,7 @@ public class User {
     private Integer id;
     private String idcard;
     private String address;
-
+    private String age;
     public String getName() {
         return name;
     }

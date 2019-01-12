@@ -6,6 +6,8 @@ package com.lyh.test;
  */
 public class Monky {
 
-
+    public static void main(String[] args) {
+        System.out.println("hahahha");
+    }
 
 }

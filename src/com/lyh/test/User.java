@@ -11,6 +11,7 @@ public class User {
     private String idcard;
     private String address;
     private String age;
+    private String bbb;
     public String getName() {
         return name;
     }

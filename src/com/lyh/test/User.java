@@ -9,8 +9,7 @@ public class User {
     private String name;
     private Integer id;
     private String idcard;
-
-
+    private String age;
     public String getName() {
         return name;
     }

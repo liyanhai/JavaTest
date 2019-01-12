@@ -8,6 +8,7 @@ public class User {
 
     private String name;
     private Integer id;
+    private String idcard;
 
 
     public String getName() {
@@ -24,5 +25,13 @@ public class User {
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    public String getIdcard() {
+        return idcard;
+    }
+
+    public void setIdcard(String idcard) {
+        this.idcard = idcard;
     }
 }

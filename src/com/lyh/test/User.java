@@ -12,6 +12,7 @@ public class User {
     private String address;
     private String age;
     private String aa;
+    private String bbb;
     public String getName() {
         return name;
     }

@@ -8,6 +8,9 @@ public class Monky {
 
     public static void main(String[] args) {
         System.out.println("hahahha");
+
+        System.out.println("在分支上");
+
     }
 
 }

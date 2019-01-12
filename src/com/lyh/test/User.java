@@ -9,7 +9,7 @@ public class User {
     private String name;
     private Integer id;
     private String idcard;
-    private String address;
+
 
     public String getName() {
         return name;
@@ -27,21 +27,11 @@ public class User {
         this.id = id;
     }
 
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
     public String getIdcard() {
         return idcard;
-
     }
 
     public void setIdcard(String idcard) {
         this.idcard = idcard;
     }
-
 }

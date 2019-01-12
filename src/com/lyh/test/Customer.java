@@ -5,7 +5,7 @@ package com.lyh.test;
  * @create 2019-01-12 11:12
  */
 public class Customer {
-    private String cusName;
-    private String name;
+  private String cusName;
+  private String age;
 
 }

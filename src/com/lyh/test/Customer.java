@@ -7,5 +7,6 @@ package com.lyh.test;
 public class Customer {
   private String cusName;
   private String age;
+  private String name;
 
 }
